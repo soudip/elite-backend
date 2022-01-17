@@ -1,0 +1,9 @@
+{
+    "name": "Elite Erp API documentation",
+    "version": "1.0.0",
+    "description": "API Elite Erp",
+    "url" : "https://eliteerp-api.dedicateddevelopers.us",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
